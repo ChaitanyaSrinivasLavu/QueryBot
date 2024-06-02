@@ -1,1 +1,6 @@
 streamlit
+pandasai
+translatepy
+dotenv
+gtts
+mysql
