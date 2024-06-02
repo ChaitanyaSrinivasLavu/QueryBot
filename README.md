@@ -106,10 +106,3 @@ Visualizes the specified column data over 12 months.
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-## Acknowledgements
-
-Special thanks to the developers and contributors of the libraries used in this project. Your tools and resources make projects like this possible.
-
----
-
-Feel free to reach out if you have any questions or need further assistance. Happy data querying with 🦊QueryBot!
