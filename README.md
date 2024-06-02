@@ -101,8 +101,3 @@ Visualizes the specified column data over 12 months.
 - `translatepy`: For translating text.
 - `gtts`: For generating speech from text.
 - `mysql-connector-python`: For connecting to MySQL databases.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
